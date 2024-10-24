@@ -1,0 +1,10 @@
+.header {
+    position: relative;
+}
+
+.header__text-right {
+    position: absolute;
+    right: 0;
+    font-size: 20px;
+    margin: 0;
+}
